@@ -3,5 +3,5 @@
 ---
 ## Content
 - [x] `apriori_test.ipynb`: 基于apriori算法的关联规则发掘
-- [ ] `fpgrowth_test.ipynb`: FP树，截至目前没有完成
+- [x] `fpgrowth_test.ipynb`: FP树
 
